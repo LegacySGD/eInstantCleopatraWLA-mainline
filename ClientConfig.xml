@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Cleopatra" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CleopatraUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2063-0" />
+	<GameClient name="Cleopatra" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CleopatraUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2063-0" />
+	<GameClient name="Cleopatra" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CleopatraUI2" enableFreeSpin="Y" clientversion="1.0" gameId="300-2063-0" />
+</ClientConfig>
